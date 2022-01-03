@@ -3,4 +3,4 @@ I'm Nathan Benavides-Luu (he/him), and I'm a sophomore at Brown University study
 
 Check out [my website](https://luu.dev) to learn more about me and what I'm up to!
 
-**📬 Need to reach me?** Shoot me an email at [nathan@luu.dev](mailto:nathan@luu.dev)
+**📬 Need to reach me?** Shoot me an email at [nathan@luu.dev](mailto:nathan@luu.dev).
